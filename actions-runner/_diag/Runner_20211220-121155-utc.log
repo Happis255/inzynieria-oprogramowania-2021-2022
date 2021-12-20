@@ -1,0 +1,129 @@
+[2021-12-20 12:11:55Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.runner'
+[2021-12-20 12:11:55Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2021-12-20 12:11:55Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19043.
+[2021-12-20 12:11:55Z INFO Listener] Version: 2.285.1
+[2021-12-20 12:11:55Z INFO Listener] Commit: 50afba61b40932c1084e31b5e9e7f5af325cc2ac
+[2021-12-20 12:11:55Z INFO Listener] Culture: pl-PL
+[2021-12-20 12:11:55Z INFO Listener] UI Culture: pl-PL
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO Listener] Validating directory permissions for: 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO CommandLineParser] Parse
+[2021-12-20 12:11:55Z INFO CommandLineParser] Parsing 1 args
+[2021-12-20 12:11:55Z INFO CommandLineParser] parsing argument
+[2021-12-20 12:11:55Z INFO CommandLineParser] HasArgs: False
+[2021-12-20 12:11:55Z INFO CommandLineParser] Adding Command: run
+[2021-12-20 12:11:55Z INFO Listener] Arguments parsed
+[2021-12-20 12:11:55Z INFO Runner] ExecuteCommand
+[2021-12-20 12:11:55Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin\Runner.Listener.dll
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO ConfigurationStore] binPath: C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO ConfigurationStore] RootFolder: C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.runner'
+[2021-12-20 12:11:55Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.runner
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials'
+[2021-12-20 12:11:55Z INFO ConfigurationStore] CredFilePath: C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_migrated'
+[2021-12-20 12:11:55Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_migrated
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO HostContext] Well known config file 'Service': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.service'
+[2021-12-20 12:11:55Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.service
+[2021-12-20 12:11:55Z INFO CommandSettings] Flag 'help': 'False'
+[2021-12-20 12:11:55Z INFO CommandSettings] Flag 'version': 'False'
+[2021-12-20 12:11:55Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-12-20 12:11:55Z INFO CommandSettings] Flag 'check': 'False'
+[2021-12-20 12:11:55Z INFO CommandSettings] Command 'configure': 'False'
+[2021-12-20 12:11:55Z INFO CommandSettings] Command 'remove': 'False'
+[2021-12-20 12:11:55Z INFO CommandSettings] Command 'warmup': 'False'
+[2021-12-20 12:11:55Z INFO ConfigurationManager] LoadSettings
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsConfigured()
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-20 12:11:55Z INFO ConfigurationManager] Is configured: True
+[2021-12-20 12:11:55Z INFO ConfigurationStore] Read setting file: 329 chars
+[2021-12-20 12:11:55Z INFO ConfigurationManager] Settings Loaded
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-12-20 12:11:55Z INFO CommandSettings] Command 'run': 'True'
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsConfigured()
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-20 12:11:55Z INFO ConfigurationManager] Is configured: True
+[2021-12-20 12:11:55Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2021-12-20 12:11:55Z INFO Runner] Set runner startup type - Manual
+[2021-12-20 12:11:55Z INFO CommandSettings] Flag 'once': 'False'
+[2021-12-20 12:11:55Z INFO CommandSettings] Flag 'once': 'False'
+[2021-12-20 12:11:55Z INFO Runner] RunAsync
+[2021-12-20 12:11:55Z INFO ConfigurationManager] LoadSettings
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsConfigured()
+[2021-12-20 12:11:55Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-20 12:11:55Z INFO ConfigurationManager] Is configured: True
+[2021-12-20 12:11:55Z INFO ConfigurationManager] Settings Loaded
+[2021-12-20 12:11:55Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "DESKTOP-K1SGK4M",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/BdnFPjvsSdjOZMcfQvmW9DzoV3GVLVIkIII6LNgZ555OXIM47g",
+  "GitHubUrl": "https://github.com/Happis255/inzynieria-oprogramowania-2021-2022",
+  "WorkFolder": "./run.cmd"
+}
+[2021-12-20 12:11:55Z INFO MessageListener] Loading Credentials
+[2021-12-20 12:11:55Z INFO ConfigurationStore] HasCredentials()
+[2021-12-20 12:11:55Z INFO ConfigurationStore] stored True
+[2021-12-20 12:11:55Z INFO CredentialManager] GetCredentialProvider
+[2021-12-20 12:11:55Z INFO CredentialManager] Creating type OAuth
+[2021-12-20 12:11:55Z INFO CredentialManager] Creating credential type: OAuth
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:11:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner'
+[2021-12-20 12:11:55Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_rsaparams'
+[2021-12-20 12:11:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_rsaparams
+[2021-12-20 12:11:55Z INFO MessageListener] Attempt to create session.
+[2021-12-20 12:11:55Z INFO MessageListener] Connecting to the Runner Server...
+[2021-12-20 12:11:55Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-12-20 12:11:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-20 12:11:55Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-20 12:11:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-20 12:11:55Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-20 12:11:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-20 12:11:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-20 12:11:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-20 12:11:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-20 12:11:56Z INFO MessageListener] VssConnection created
+[2021-12-20 12:11:56Z INFO Terminal] WRITE LINE: 
+[2021-12-20 12:11:56Z INFO Terminal] WRITE LINE: 
+[2021-12-20 12:11:56Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 86d79b53-6a21-4dc6-9efa-1b2311d4cca9
+ActivityId: 51c46bd3-fb2e-4686-8611-325566df2238
+X-TFS-Session: 0673ed6c-d06c-4987-86c3-9c615b0f31c6
+X-VSS-E2EID: aecdc8f9-e1a4-48b3-9e55-a685dd273124
+X-VSS-SenderDeploymentId: ac98198d-4d34-0364-420d-bafa6e51dce2
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: D142464F421C43E1B66C8498720EA045 Ref B: WAW01EDGE0219 Ref C: 2021-12-20T12:11:56Z
+Date: Mon, 20 Dec 2021 12:11:56 GMT
+
+[2021-12-20 12:11:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_rsaparams
+[2021-12-20 12:11:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_rsaparams
+[2021-12-20 12:11:56Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-12-20 12:11:56Z INFO MessageListener] Session created.
+[2021-12-20 12:11:56Z INFO Terminal] WRITE LINE: Current runner version: '2.285.1'
+[2021-12-20 12:11:56Z INFO Terminal] WRITE LINE: 2021-12-20 12:11:56Z: Listening for Jobs
+[2021-12-20 12:11:56Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2021-12-20 12:42:02Z INFO MessageListener] No message retrieved from session '72ec4a7a-9a8b-4413-a556-447a736c3205' within last 30 minutes.
