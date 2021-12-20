@@ -127,3 +127,72 @@ Date: Mon, 20 Dec 2021 12:11:56 GMT
 [2021-12-20 12:11:56Z INFO Terminal] WRITE LINE: 2021-12-20 12:11:56Z: Listening for Jobs
 [2021-12-20 12:11:56Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
 [2021-12-20 12:42:02Z INFO MessageListener] No message retrieved from session '72ec4a7a-9a8b-4413-a556-447a736c3205' within last 30 minutes.
+[2021-12-20 12:49:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_rsaparams
+[2021-12-20 12:49:43Z INFO MessageListener] Message '1' received from session '72ec4a7a-9a8b-4413-a556-447a736c3205'.
+[2021-12-20 12:49:43Z INFO JobDispatcher] Job request 1 for plan 94190f5d-7190-4e81-b3f3-eb430364abf8 job c269f388-e93f-55df-e42c-8ad0a472b48b received.
+[2021-12-20 12:49:43Z INFO JobDispatcher] Pull OrchestrationId 94190f5d-7190-4e81-b3f3-eb430364abf8.build._16_x from JWT claims
+[2021-12-20 12:49:43Z INFO Terminal] WRITE LINE: 2021-12-20 12:49:43Z: Running job: build (16.x)
+[2021-12-20 12:49:43Z INFO JobDispatcher] Start renew job request 1 for job c269f388-e93f-55df-e42c-8ad0a472b48b.
+[2021-12-20 12:49:43Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 20.12.2021 12:59:44
+[2021-12-20 12:49:43Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper] Starting process:
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin\Runner.Worker.exe'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1636 1856'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-12-20 12:49:43Z INFO ProcessInvokerWrapper] Process started with process id 31572, waiting for process exit.
+[2021-12-20 12:49:43Z INFO JobDispatcher] Send job request message to worker for job c269f388-e93f-55df-e42c-8ad0a472b48b.
+[2021-12-20 12:49:43Z INFO ProcessChannel] Sending message of length 24488, with hash 'f286caca65ba4ca1fd73e92c50f3963600f009b56cf7735229eac9825097f697'
+[2021-12-20 12:49:44Z INFO JobNotification] Entering JobStarted Notification
+[2021-12-20 12:49:44Z INFO JobNotification] Entering StartMonitor
+[2021-12-20 12:49:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-20 12:49:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-20 12:49:48Z INFO ProcessInvokerWrapper] Finished process 31572 with exit code 102, and elapsed time 00:00:04.1125512.
+[2021-12-20 12:49:48Z INFO JobDispatcher] Worker finished for job c269f388-e93f-55df-e42c-8ad0a472b48b. Code: 102
+[2021-12-20 12:49:48Z INFO JobDispatcher] finish job request for job c269f388-e93f-55df-e42c-8ad0a472b48b with result: Failed
+[2021-12-20 12:49:48Z INFO Terminal] WRITE LINE: 2021-12-20 12:49:48Z: Job build (16.x) completed with result: Failed
+[2021-12-20 12:49:48Z INFO JobDispatcher] Stop renew job request for job c269f388-e93f-55df-e42c-8ad0a472b48b.
+[2021-12-20 12:49:48Z INFO JobDispatcher] job renew has been canceled, stop renew job request 1.
+[2021-12-20 12:49:48Z INFO JobNotification] Entering JobCompleted Notification
+[2021-12-20 12:49:48Z INFO JobNotification] Entering EndMonitor
+[2021-12-20 12:49:59Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\.credentials_rsaparams
+[2021-12-20 12:49:59Z INFO MessageListener] Message '2' received from session '72ec4a7a-9a8b-4413-a556-447a736c3205'.
+[2021-12-20 12:49:59Z INFO JobDispatcher] Job request 2 for plan 1e7b0a16-6092-4e52-adf8-64ee59765e72 job c269f388-e93f-55df-e42c-8ad0a472b48b received.
+[2021-12-20 12:49:59Z INFO JobDispatcher] Pull OrchestrationId 1e7b0a16-6092-4e52-adf8-64ee59765e72.build._16_x from JWT claims
+[2021-12-20 12:49:59Z INFO JobDispatcher] Job request c269f388-e93f-55df-e42c-8ad0a472b48b processed succeed.
+[2021-12-20 12:49:59Z INFO Terminal] WRITE LINE: 2021-12-20 12:49:59Z: Running job: build (16.x)
+[2021-12-20 12:49:59Z INFO JobDispatcher] Start renew job request 2 for job c269f388-e93f-55df-e42c-8ad0a472b48b.
+[2021-12-20 12:49:59Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 20.12.2021 13:00:00
+[2021-12-20 12:49:59Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper] Starting process:
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin\Runner.Worker.exe'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1508 1824'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Huber\Desktop\inzynieria-oprogramowania-2021-2022\actions-runner\bin'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2021-12-20 12:49:59Z INFO ProcessInvokerWrapper] Process started with process id 32824, waiting for process exit.
+[2021-12-20 12:49:59Z INFO JobDispatcher] Send job request message to worker for job c269f388-e93f-55df-e42c-8ad0a472b48b.
+[2021-12-20 12:49:59Z INFO ProcessChannel] Sending message of length 24488, with hash '4cc63a9e7e096de00a577e679feb0e8e5465855c04f34a424fd617cb43311b9f'
+[2021-12-20 12:49:59Z INFO JobNotification] Entering JobStarted Notification
+[2021-12-20 12:49:59Z INFO JobNotification] Entering StartMonitor
+[2021-12-20 12:50:02Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-20 12:50:02Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-20 12:50:02Z INFO ProcessInvokerWrapper] Finished process 32824 with exit code 102, and elapsed time 00:00:03.2233639.
+[2021-12-20 12:50:02Z INFO JobDispatcher] Worker finished for job c269f388-e93f-55df-e42c-8ad0a472b48b. Code: 102
+[2021-12-20 12:50:02Z INFO JobDispatcher] finish job request for job c269f388-e93f-55df-e42c-8ad0a472b48b with result: Failed
+[2021-12-20 12:50:02Z INFO Terminal] WRITE LINE: 2021-12-20 12:50:02Z: Job build (16.x) completed with result: Failed
+[2021-12-20 12:50:02Z INFO JobDispatcher] Stop renew job request for job c269f388-e93f-55df-e42c-8ad0a472b48b.
+[2021-12-20 12:50:02Z INFO JobDispatcher] job renew has been canceled, stop renew job request 2.
+[2021-12-20 12:50:02Z INFO JobNotification] Entering JobCompleted Notification
+[2021-12-20 12:50:02Z INFO JobNotification] Entering EndMonitor
