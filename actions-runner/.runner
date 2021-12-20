@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-K1SGK4M",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/BdnFPjvsSdjOZMcfQvmW9DzoV3GVLVIkIII6LNgZ555OXIM47g",
+  "gitHubUrl": "https://github.com/Happis255/inzynieria-oprogramowania-2021-2022",
+  "workFolder": "./run.cmd"
+}
