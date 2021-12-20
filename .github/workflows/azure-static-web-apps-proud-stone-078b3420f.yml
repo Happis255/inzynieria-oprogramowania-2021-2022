@@ -26,6 +26,7 @@ jobs:
     - run: npm run build --if-present
 
   build_and_deploy_job:
+    needs: [build]
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy Job
@@ -48,6 +49,7 @@ jobs:
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
+    needs: [build_and_deploy_job]
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
     runs-on: ubuntu-latest
     name: Close Pull Request Job
