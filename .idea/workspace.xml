@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5ee7ea5-61ce-4742-afd1-8444f8aa58e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/azure-aplicattion-build-test-deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-proud-stone-078b3420f.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/azure-aplicattion-build-and-test.yml" afterDir="false" />
+    <list default="true" id="d5ee7ea5-61ce-4742-afd1-8444f8aa58e8" name="Changes" comment="IO-00004 - Rekonfiguracja Git Actions">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/azure-aplicattion-build-and-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/azure-aplicattion-build-and-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/azure-aplicattion-build-test-deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/azure-aplicattion-build-test-deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,14 @@
       <workItem from="1640017759495" duration="173000" />
       <workItem from="1640017949736" duration="3249000" />
     </task>
+    <task id="LOCAL-00001" summary="IO-00004 - Rekonfiguracja Git Actions">
+      <created>1640022364688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640022364689</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +93,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IO-00004 - Rekonfiguracja Git Actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="IO-00004 - Rekonfiguracja Git Actions" />
   </component>
 </project>
