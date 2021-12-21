@@ -83,14 +83,7 @@ const LoginForm = (props: Props) => {
                                         alignItems="stretch"
                                         spacing={2}>
                                 <Grid item>
-                                    <StyledTextField
-                                        required
-                                        id="outlined-required"
-                                        label="Login"
-                                        value={username}
-                                        onChange={handleUsernameChange}
-                                        inputProps={{ "data-testid": "account-login" }}
-                                    />
+
                                 </Grid>
                                 <Grid item>
                                     <StyledTextField
