@@ -28,10 +28,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "jest --env=jsdom",
+    "test": "jest --env=jsdom --passWithNoTests",
     "eject": "react-scripts eject",
     "format": "nx format:write",
-    "test:watch": "jest --watch --env=jsdom"
+    "test:watch": "jest --watch --env=jsdom --passWithNoTests"
   },
   "eslintConfig": {
     "extends": [
