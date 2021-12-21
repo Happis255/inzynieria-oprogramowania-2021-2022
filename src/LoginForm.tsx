@@ -42,13 +42,13 @@ export const theme = createTheme({
 });
 
 const LoginForm = (props: Props) => {
-    const [username, setUsername] = React.useState("");
+    const [username] = React.useState("");
     const [password, setPassword] = React.useState("");
-    const handleUsernameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-        const {value} = e.target;
-        setUsername(value);
-        props.onUsernameChange(value);
-    };
+    // const handleUsernameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    //     const {value} = e.target;
+    //     setUsername(value);
+    //     props.onUsernameChange(value);
+    // };
 
     const handlePasswordChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const {value} = e.target;
@@ -83,14 +83,7 @@ const LoginForm = (props: Props) => {
                                         alignItems="stretch"
                                         spacing={2}>
                                 <Grid item>
-                                    <StyledTextField
-                                        required
-                                        id="outlined-required"
-                                        label="Login"
-                                        value={username}
-                                        onChange={handleUsernameChange}
-                                        inputProps={{ "data-testid": "account-login" }}
-                                    />
+
                                 </Grid>
                                 <Grid item>
                                     <StyledTextField
