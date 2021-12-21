@@ -64,9 +64,7 @@ function App() {
                             <Grid item>
                                 <StyledTextField
                                     required
-                                    id="outlined-required"
-                                    label="Login"
-                                />
+                                    id="outlined-requir
                             </Grid>
                             <Grid item>
                                 <StyledTextField
