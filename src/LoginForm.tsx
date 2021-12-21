@@ -44,11 +44,11 @@ export const theme = createTheme({
 const LoginForm = (props: Props) => {
     const [username, setUsername] = React.useState("");
     const [password, setPassword] = React.useState("");
-    const handleUsernameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-        const {value} = e.target;
-        setUsername(value);
-        props.onUsernameChange(value);
-    };
+    // const handleUsernameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    //     const {value} = e.target;
+    //     setUsername(value);
+    //     props.onUsernameChange(value);
+    // };
 
     const handlePasswordChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const {value} = e.target;
